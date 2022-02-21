@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class App {
+public class App30 {
  
     public static void main(String[] args) {
         int number, balance;
@@ -21,7 +21,7 @@ public class App {
             number /= 10;
         }
          
-        System.out.println("Tong cac chu so 6 = " + sum);
+        System.out.println("Tong cac chu so = " + sum);
     }
  
 }
